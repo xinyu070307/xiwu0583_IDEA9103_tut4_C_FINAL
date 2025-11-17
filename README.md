@@ -47,7 +47,7 @@ My implementation focuses exclusively on spatial relationship animation where th
 ![An image of a game](thomas_was_alone_6.jpg)
 - This game of Thomas gave me an inspiration for creating animated games. Even simple rectangles can be transformed through movement and resizing, creating a kind of playful interaction.
 
-![Rafael Rozendaal.jpg](<../Rafael Rozendaal.jpg>)
+![Rafael Rozendaal.jpg](<Rafael Rozendaal.jpg>)
 - Rafael Rozendaal provided some inspiration for various arrangements. Different colors and sizes of rectangles, through interactive behaviors such as changing size, make the simple rectangles interesting and create a visual impact effect.
 
 // Artistic Inspirations
